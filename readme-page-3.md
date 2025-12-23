@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 3 of 5 — Showcasing a collection of 42 stunning wallpapers.*
+*Page 3 of 5 — Showcasing a collection of 45 stunning wallpapers.*
 
 
 ---
