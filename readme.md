@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 1 of 5 — Showcasing a collection of 45 stunning wallpapers.*
+*Page 1 of 6 — Showcasing a collection of 46 stunning wallpapers.*
 
 
 ---
@@ -9,14 +9,14 @@
 
   <span style="color: #999;">⬅️ Previous</span>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  Page 1 of 5
+  Page 1 of 6
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="readme-page-2.md">Next ➡️</a>
 
 </div>
 <div align="center" style="margin-top: 10px;">
   <small>
-  <strong>[1]</strong> • <a href="readme-page-2.md">2</a> • <a href="readme-page-3.md">3</a> • <a href="readme-page-4.md">4</a> • <a href="readme-page-5.md">5</a>
+  <strong>[1]</strong> • <a href="readme-page-2.md">2</a> • <a href="readme-page-3.md">3</a> • <a href="readme-page-4.md">4</a> • <a href="readme-page-5.md">5</a> • <a href="readme-page-6.md">6</a>
   </small>
 </div>
 
@@ -98,14 +98,14 @@
 
   <span style="color: #999;">⬅️ Previous</span>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  Page 1 of 5
+  Page 1 of 6
   &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="readme-page-2.md">Next ➡️</a>
 
 </div>
 <div align="center" style="margin-top: 10px;">
   <small>
-  <strong>[1]</strong> • <a href="readme-page-2.md">2</a> • <a href="readme-page-3.md">3</a> • <a href="readme-page-4.md">4</a> • <a href="readme-page-5.md">5</a>
+  <strong>[1]</strong> • <a href="readme-page-2.md">2</a> • <a href="readme-page-3.md">3</a> • <a href="readme-page-4.md">4</a> • <a href="readme-page-5.md">5</a> • <a href="readme-page-6.md">6</a>
   </small>
 </div>
 
