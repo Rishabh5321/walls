@@ -1,6 +1,6 @@
 # 📂 Wallpaper Gallery Index
 
-Welcome! This gallery contains **46 wallpapers** spread across **6 pages**.
+Welcome! This gallery contains **47 wallpapers** spread across **6 pages**.
 
 ## Quick Navigation
 
@@ -11,7 +11,7 @@ Welcome! This gallery contains **46 wallpapers** spread across **6 pages**.
 | [**Page 3**](readme-page-3.md) | Images 19 - 27 |
 | [**Page 4**](readme-page-4.md) | Images 28 - 36 |
 | [**Page 5**](readme-page-5.md) | Images 37 - 45 |
-| [**Page 6**](readme-page-6.md) | Images 46 - 46 |
+| [**Page 6**](readme-page-6.md) | Images 46 - 47 |
 
 <div align="center">
   <a href="readme.md">🚀 Start Browse from Page 1</a>
@@ -19,6 +19,6 @@ Welcome! This gallery contains **46 wallpapers** spread across **6 pages**.
 
 ---
 ### 📊 Gallery Stats
-- **Total Images:** 46
+- **Total Images:** 47
 - **Images per Page:** 9
 - **Image Formats:** PNG, JPG, JPEG, GIF, WebP
