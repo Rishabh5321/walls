@@ -1,6 +1,6 @@
 # 🖼️ Wallpaper Gallery
 
-*Page 6 of 6 — Showcasing a collection of 47 stunning wallpapers.*
+*Page 6 of 6 — Showcasing a collection of 48 stunning wallpapers.*
 
 
 ---
@@ -35,6 +35,13 @@
       </a>
       <br>
       <small><i>wall47</i></small>
+    </td>
+    <td width="400px" align="center">
+      <a href="src/wall48.png">
+        <img src="src/thumbnails/wall48.png" width="400px" alt="Wallpaper: wall48">
+      </a>
+      <br>
+      <small><i>wall48</i></small>
     </td>
   </tr>
 </table>
